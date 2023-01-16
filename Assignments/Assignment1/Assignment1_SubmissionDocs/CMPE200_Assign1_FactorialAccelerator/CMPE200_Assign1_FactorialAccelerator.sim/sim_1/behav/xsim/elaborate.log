@@ -1,0 +1,20 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: H:/Masters/Semester1/CMPE200/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 7dd021fefce94e2caadec5568c524e1b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot FATopModule_tb_behav xil_defaultlib.FATopModule_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Comparator
+Compiling module xil_defaultlib.Counter
+Compiling module xil_defaultlib.Multiplier
+Compiling module xil_defaultlib.Multiplexer2x1
+Compiling module xil_defaultlib.Register
+Compiling module xil_defaultlib.FA_Datapath
+Compiling module xil_defaultlib.FA_Controlpath
+Compiling module xil_defaultlib.FATopModule
+Compiling module xil_defaultlib.FATopModule_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot FATopModule_tb_behav

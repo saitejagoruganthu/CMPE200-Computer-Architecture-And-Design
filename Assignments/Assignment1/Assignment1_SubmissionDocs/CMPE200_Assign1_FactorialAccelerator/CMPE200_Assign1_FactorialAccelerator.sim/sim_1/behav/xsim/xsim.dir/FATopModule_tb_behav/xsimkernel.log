@@ -1,0 +1,4 @@
+Running: xsim.dir/FATopModule_tb_behav/xsimk.exe -simmode gui -wdb FATopModule_tb_behav.wdb -simrunnum 0 -socket 56772
+Design successfully loaded
+Design Loading Memory Usage: 5152 KB (Peak: 5152 KB)
+Design Loading CPU Usage: 46 ms

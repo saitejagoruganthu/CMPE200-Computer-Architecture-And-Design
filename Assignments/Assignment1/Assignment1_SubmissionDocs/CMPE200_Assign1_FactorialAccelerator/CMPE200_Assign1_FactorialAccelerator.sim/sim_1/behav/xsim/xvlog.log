@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/Masters/Semester1/CMPE200/Assignment1/CMPE200_Assign1_FactorialAccelerator/CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/Comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Comparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/Masters/Semester1/CMPE200/Assignment1/CMPE200_Assign1_FactorialAccelerator/CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/Counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/Masters/Semester1/CMPE200/Assignment1/CMPE200_Assign1_FactorialAccelerator/CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/FATopModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FATopModule
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/Masters/Semester1/CMPE200/Assignment1/CMPE200_Assign1_FactorialAccelerator/CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/FA_Controlpath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FA_Controlpath
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/Masters/Semester1/CMPE200/Assignment1/CMPE200_Assign1_FactorialAccelerator/CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/FA_Datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FA_Datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/Masters/Semester1/CMPE200/Assignment1/CMPE200_Assign1_FactorialAccelerator/CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/Multiplexer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Multiplexer2x1
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/Masters/Semester1/CMPE200/Assignment1/CMPE200_Assign1_FactorialAccelerator/CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/Multiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Multiplier
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/Masters/Semester1/CMPE200/Assignment1/CMPE200_Assign1_FactorialAccelerator/CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/Register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register
+INFO: [VRFC 10-2263] Analyzing Verilog file "H:/Masters/Semester1/CMPE200/Assignment1/CMPE200_Assign1_FactorialAccelerator/CMPE200_Assign1_FactorialAccelerator.srcs/sim_1/new/FATopModule_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FATopModule_tb

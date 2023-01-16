@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/Comparator.v" \
+"../../../../CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/Counter.v" \
+"../../../../CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/FATopModule.v" \
+"../../../../CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/FA_Controlpath.v" \
+"../../../../CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/FA_Datapath.v" \
+"../../../../CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/Multiplexer.v" \
+"../../../../CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/Multiplier.v" \
+"../../../../CMPE200_Assign1_FactorialAccelerator.srcs/sources_1/new/Register.v" \
+"../../../../CMPE200_Assign1_FactorialAccelerator.srcs/sim_1/new/FATopModule_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

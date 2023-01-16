@@ -1,0 +1,3 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+$finish called at time : 3900 ns : File "H:/Masters/Semester1/CMPE200/Assignment7/CMPE200_Assignment7_PipelinedMIPS_SOCDesign/CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sim_2/new/tb_mips_pipelined_top.v" Line 51

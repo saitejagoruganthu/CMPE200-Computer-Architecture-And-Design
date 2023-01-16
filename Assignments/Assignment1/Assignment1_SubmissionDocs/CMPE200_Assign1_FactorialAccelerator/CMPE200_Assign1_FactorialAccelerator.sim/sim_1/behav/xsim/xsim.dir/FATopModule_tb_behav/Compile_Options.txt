@@ -1,0 +1,1 @@
+-wto "7dd021fefce94e2caadec5568c524e1b" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "FATopModule_tb_behav" "xil_defaultlib.FATopModule_tb" "xil_defaultlib.glbl" -log "elaborate.log" 

@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/system_AD.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sim_2/new/tb_system_ad.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

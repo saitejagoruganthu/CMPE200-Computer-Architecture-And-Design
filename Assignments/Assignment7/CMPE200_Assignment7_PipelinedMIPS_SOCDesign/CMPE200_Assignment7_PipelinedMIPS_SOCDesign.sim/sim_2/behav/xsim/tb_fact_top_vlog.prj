@@ -1,0 +1,24 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/CMP.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/CNT.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/CU.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/DP.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/FSMult.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/Multiplexer.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/Multiplier.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/Register.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/and_fact.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/fact_ad.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/fact_reg.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/fact_res_done_reg.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/fact_res_err_reg.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/fact_top.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sources_1/new/mux4.v" \
+"../../../../CMPE200_Assignment7_PipelinedMIPS_SOCDesign.srcs/sim_2/new/tb_fact_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

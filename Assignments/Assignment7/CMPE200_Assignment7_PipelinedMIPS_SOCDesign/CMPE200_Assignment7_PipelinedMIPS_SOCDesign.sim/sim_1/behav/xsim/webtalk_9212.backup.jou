@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Dec  1 00:14:30 2022
+# Process ID: 9212
+# Current directory: H:/Masters/Semester1/CMPE200/Assignment7/CMPE200_Assignment7_PipelinedMIPS_SOCDesign/CMPE200_Assignment7_PipelinedMIPS_SOCDesign.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source H:/Masters/Semester1/CMPE200/Assignment7/CMPE200_Assignment7_PipelinedMIPS_SOCDesign/CMPE200_Assignment7_PipelinedMIPS_SOCDesign.sim/sim_1/behav/xsim/xsim.dir/system_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: H:/Masters/Semester1/CMPE200/Assignment7/CMPE200_Assignment7_PipelinedMIPS_SOCDesign/CMPE200_Assignment7_PipelinedMIPS_SOCDesign.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: H:/Masters/Semester1/CMPE200/Assignment7/CMPE200_Assignment7_PipelinedMIPS_SOCDesign/CMPE200_Assignment7_PipelinedMIPS_SOCDesign.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source H:/Masters/Semester1/CMPE200/Assignment7/CMPE200_Assignment7_PipelinedMIPS_SOCDesign/CMPE200_Assignment7_PipelinedMIPS_SOCDesign.sim/sim_1/behav/xsim/xsim.dir/system_behav/webtalk/xsim_webtalk.tcl -notrace

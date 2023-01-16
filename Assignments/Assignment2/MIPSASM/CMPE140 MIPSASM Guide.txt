@@ -1,0 +1,25 @@
+installation:
+1. Run the mipsasm20_install.exe.
+
+2. Choose your installation folder, for example "D:\MIPSASM". Start installation.
+
+3. If any options pop up during installation, click yes.
+
+4. Copy the mipsasm215.exe and paste it in your installation folder. 
+
+
+Use:
+Note: The MIPSASM is quite an outdated simulator so it needs some extra care.
+
+1. Run mipsasm215.exe. Do not use mipsasm.exe (it gives you wrong results).
+
+2. Open file might not work so just copy and paste your code (e.g., mipstest.asm) into the editor.
+
+3. Select MIPS - Assembly or click the assembly label directly to assemble your code. If the machine code does not show up, do this again.
+
+4. Execute or single step through the code in the Machine Code window. Select View - Registers / Memory if it does not show up. Observe its content to finish your assignment.
+
+
+
+For any questions, ask me via Email/Canvas/Slack or during office hours. Good luck on your assignments!
+-- Instructor: Haonan Wang
